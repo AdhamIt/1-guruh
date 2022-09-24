@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://picsum.photos/1200');
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.orabturuvchi{
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  opacity: 0.6;
+  text-align: center;
+  border-radius: 15px;
+}
+.tugmalar{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid grey;
+}
+button{
+  width: 100px;
+  height: 40px;
+  border: none;
+  background-color: transparent;
+}
+.forma{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+}
+input{
+  width: 70%;
+  height: 30px;
+  padding: 0 10px;
+  margin-bottom: 30px;
+}
+label{
+  color: black;
+  font-size: 20px;
+  text-align: left;
+}
+.btn{
+  background-color: orange;
+  width: 200px;
+  border-radius: 20px;
+}
+.vxod{
+  color: rgb(23, 2, 2);
+  font-weight: 900;
+  border-bottom: 1px solid orange;
+}
+.displaynone{
+  display: none;
+}
+.rangbarang{
+  background-color: red;
+}

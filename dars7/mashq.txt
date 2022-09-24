@@ -1,0 +1,9 @@
+
+// ikki son > yigindisi , ko`paytmasi, bolinmasi, qoldiqli bo`lganda qoldig`i
+// 2. bir son , 10 - darajasini topish, ildizini topish, 
+// 3. ikki son. / Agar birinchi birinchi son ikkinchisidan katta bo`lsa birinchi sonni ikkinchi songa bo`lasizlar, agar ters bo`sa aksini qilasizlar
+4. boshlang`ich son kiritasizlar. oxirgi qiymat kiritasizlar
+misol un,. 1, 100
+// 1 dan yuzgacha bo`lgan sonlarni chiqarish
+// sonni 5 ga bo`lganda qoldig`i 3 bo`ladigan sonlarni chiqarish
+
